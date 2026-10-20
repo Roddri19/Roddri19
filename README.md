@@ -4,7 +4,7 @@
 
 - 💼 Full Stack / Backend Developer at **Boltick** (startup): REST APIs in Node.js/TypeScript and Python, serverless services on AWS (Lambda, SQS, DynamoDB), Sentry monitoring.
 - 📱 Previously Backend Developer Trainee at **TOANPE**: React Native (Expo) + Firebase app with real-time location tracking.
-- 🎓 University Programming Technician (UTN).
+- 🎓 University Programming Technician (UTN San Rafael, Mendoza).
 - 🤖 I use **Claude Code** every day for AI-assisted development.
 - 🌎 Open to junior backend / full stack roles (remote). Spanish native, English B2.
 
