@@ -2,7 +2,7 @@
 
 **Junior Backend & Full Stack Developer** from Mendoza, Argentina.
 
-## 💼 Currently: Full Stack Developer at [Boltick](https://github.com/boltick-app)
+## 💼 Currently: Full Stack Developer at Boltick
 
 Since March 2026 I work as a **Full Stack / Backend Developer** at Boltick, a startup, on both the backend and the web apps of the product:
 
